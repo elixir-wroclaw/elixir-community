@@ -32,13 +32,22 @@ https://elixir-wroclaw.github.io/
 
 ----
 
-## Engagement
+## Meetings format
 
-## What is 'community'?
+- 'long' talks (~30 minutes)
+- lightning talks
+- workshops
+- coding
+- discussion panel
 
+Note:
+presentation longer than 30minutes is a lot of work
+you should be capable of selling your idea within half an hour
 ----
 
-## YOU
+## Engagement
+
+**Community = YOU!**
 
 ----
 

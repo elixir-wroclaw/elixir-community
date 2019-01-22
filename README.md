@@ -1,3 +1,1 @@
-# Introduction to Elixir
-
-First talk given on the Elixir-Wroclaw group in January 2019.
+Slides for 'Elixir community introduction' for Elixir Wroclaw user group.

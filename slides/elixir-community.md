@@ -1,6 +1,6 @@
 # Elixir in Wrocław!
 
-
+<small>23rd January 2019 Wrocław, Poland</small>
 ----
 
 ## Who are we?

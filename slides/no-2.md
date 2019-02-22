@@ -16,6 +16,10 @@
 - meetup - source of truth
 ====
 
+## Help wanted
+- group logo / ... 
+====
+
 ## No 3
 - draft: 27.03.2019
 - free slots (no slots)
